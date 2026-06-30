@@ -19,10 +19,6 @@ A desktop application built with Python and PyQt5 for sending WhatsApp messages 
 - Selenium
 - WebDriver Manager
 
-## Screenshots
-
-(Add screenshots here)
-
 ## Author
 
 Mohammad Farahani
